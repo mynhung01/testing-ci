@@ -1,3 +1,5 @@
+[![Demo CI with Math-Util | © 2021 MyNhung](https://github.com/mynhung01/testing-ci/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/mynhung01/testing-ci/actions/workflows/testing-ci.yml)
+
 ### Welcome to CI demonstration by using GitHub Actions
 
 # You will find in this repo:
