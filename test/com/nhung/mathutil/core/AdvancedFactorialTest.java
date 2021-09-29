@@ -19,13 +19,7 @@ import org.junit.runners.Parameterized.Parameters;
  */
 @RunWith(value = Parameterized.class)
 public class AdvancedFactorialTest {
-    
-    // ta viet ki thuat mới, tách data ra hẳn các lệnh ktra hàm
-    // data này ta có thể đặt ở file.txt, cvs,excel
-    //input và putput/expected là những cặp
-    //nhiều cắp cần phải test, do đó data để test hàm là mảng 2 chiều
-    // mảng 2 chiều này sẽ đc nạp từ fite.txt
-    // hoặc ta tạo luôn 1 mảng 2 chiều ngày đây
+
     @Parameters
     public static Object[][] initData(){
         return new Integer[][] {
