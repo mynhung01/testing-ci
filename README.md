@@ -5,5 +5,7 @@
 * JUnit Test configuration to work with the project building process
 * .gitignore file for NetBeans project
 * ...
- 
+ ### Screen shot
+ ![JUnit with TDD](https://github.com/mynhung01/testing-ci/blob/main/images/test-ci.png)
+ <img alt="" src="">
   © 2021 MyNhung 
